@@ -3,7 +3,7 @@
 
 *This is still WIP but does work.*
 
-![hawk_ 1](screenshots/hawk_ 1.jpg)
+![hawk1](Screenshots/hawk_ 1.jpg)
 
 Download the zip file and extract the "BA-Hawk" folder into the "$FG_ROOT/AI/Aircraft" folder.
 
