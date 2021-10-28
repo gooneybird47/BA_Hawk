@@ -1,13 +1,13 @@
 AC3Db
 MATERIAL "Material" rgb 0.800 0.800 0.800  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 77 trans 0.000
 OBJECT world
-name "Blender_exporter_v3.2__hawk2-28-067.ac"
+name "Blender_exporter_v3.2__hawk2-28-069.ac"
 kids 2
 OBJECT poly
 name "body"
 data 8
 fuselage
-crease 68.8
+crease 89.1
 texture "hawk_tex.png"
 numvert 1797
 -6.61559 1.20838 0.0035
@@ -13692,7 +13692,7 @@ OBJECT poly
 name "gear"
 data 12
 Cylinder.002
-crease 40.0
+crease 86.7
 texture "hawk_tex.png"
 numvert 534
 -4.98479 0.34399 -0.07306
